@@ -1,0 +1,12 @@
+[package]
+name = "os"
+version = "0.0.0"
+authors = ["Tim Whitaker <camp4climber@gmail.com>"]
+description = "Library for various os utilities"
+
+repository = "https://github.com/camp4climber/os"
+homepage = "https://github.com/camp4climber/os"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
