@@ -1,6 +1,6 @@
 [package]
 name = "os"
-version = "0.0.0"
+version = "0.1.0"
 authors = ["Tim Whitaker <camp4climber@gmail.com>"]
 description = "Library for various os utilities"
 
